@@ -1,29 +1,37 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Book review: The 22 immutable laws of branding"
 date:   2020-11-29 13:49:27 +0800
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+Finally started reading regularly again. The past year has been, different. Here's my take on the book.
 
 {% highlight ruby %}
+Title: `The 22 immutable laws of branding`
+Reading Difficulty: `Very easy`
+Did I like it: `Definitely`
+{% endhighlight %}
+
+## Personal Views
+The book is great and provides alot of insight into what true marketing is. I've always believed that marketing in university is full fluff, and you never, ever need a degree for that. Just look at the best entrepreneurs, they did everything on their own. Marketing for a big company is easy. However, try marketing for a startup with a budget of 0 dollars. Thats when the true marketers come in, and not when interns 'market' for big corporations with exceptionally high advertisement budgets.
+
+## Book summary
+Al and Laura Ries mainly conveys the message of what is actaully detrimental to a brand. A company is not a brand, and a brand should not be a company either. The key takeaway is that to grow a brand well, you contract the brand and work on that contracted market. Don't look to expand categories, like how Google has been trying to expand into the gaming industry, but with little result. Google Stadia, as far as many are concerned, is a failure, for now. 
+
+## Concept summary
+To expand, expand the market instead. Like the discord group which I have grown, it would be detrimental to try to introduce too many categories in it. What I should be doing, is to work on the number of people using discord instead. Expand the market size in that sole category.
+
+Expansion of categories dilutes a brand and we don't want to fall down this hole.
+
+## Additionals
+One of my favourite laws is `The law of Singularity`. Stick to 1 specific thing, like how Volvo has stuck to safety in its brand. This is what keeps your brand strong and distinct.
+
+Current books I plan to read: Afraid to hope, Discovering the Ottomans, The law of success, Guide to sprint and olympic triathlon training.
+
+<!-- {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+{% endhighlight %} -->

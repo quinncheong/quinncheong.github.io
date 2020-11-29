@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Site update and reveal"
+date:   2020-11-29 13:49:27 +0800
+categories: jekyll update
+---
+After thinking long and hard, I have finally started a website to document my thoughts.
+
+## Thoughts
+1. Unsure of how I should release it to the public. Should I even release it to the public? Probably, so long as I can help a single person out there, lost in the storm. Am I scared of releasing it to the public, probably too. 
+
+2. I might get lazy, and stop writing. 
+
+3. This post probably isn't relevant, so move on and read my other writings. I'll end this semi-test here.

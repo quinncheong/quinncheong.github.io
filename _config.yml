@@ -22,7 +22,7 @@ title: Quinn Cheong
 email: quinncheong@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Basically all about me.
-baseurl: "https://quinncheong.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://quinncheong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: quinn_cheong
 github_username:  quinncheong

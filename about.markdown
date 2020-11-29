@@ -21,9 +21,9 @@ I'll end it off with letting you know my 3 biggest beliefs, 3 things I hate, and
 ### **3 Beliefs**
 1) The 10 year goal. Work very hard for 10 years and reap the benefits. The first 8 years will kill you, but if you survive you come out a different person.
 
-2) Look not at how to earn money, but how to make a difference in people's lives. The money will come.
+2) Look not at how to earn money, but how to make a difference in people's lives. The money will follow, but never get lost in it.
 
-3) Hope. Dont lose it.
+3) Hope. Beautifully dangerous, but yet we it is what drives us (me) to push my limits and hopefully, possibly, achieve great things. 
 
 ### **3 things I hate**
 1) People who start giving advice to others on a whim when they don't have the proper experience. Don't give me insurance advice if you're 5 months into the trade. Don't teach me how to invest if you've not yet made it big yourself. 
@@ -35,7 +35,7 @@ I'll end it off with letting you know my 3 biggest beliefs, 3 things I hate, and
 ### **3 Dying questions** 
 1) What is the meaning to life? Are we born just so we can perish, or are we destined for greater things?
 
-2) Does hard work REALLY trump everything else? Can one be certain that if he, regardless of background, works harder than the herd for the next 20 years, sucess will be guaranteed.
+2) Does hard work REALLY trump everything else? Can one be certain that if he, regardless of background, works harder than the herd for the next 20 years, will be guaranteed a shot a success?
 
 3) Why is there so much hate in this world? Why has everyone been poulluted with jealousy and greed? Why are the successful able to look past these nonsensical, arbitrary desires and focus on the real thing?
 

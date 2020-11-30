@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-## Hello stalker. I see you have chanced upon my personal notes.
+## Hello, I see you have chanced upon my personal notes.
 
 I created this site to track my successes and failures from the adventures that I've had (and those that are to come). This site was founded in November 2020 as I started re-thinking upon my life and what I had been doing for the past year. I mainly write about my failures / successes, do book reviews and summaries on my best reads every month, blabber about Philosophy and questions that I've had since young, and maybe some other stuff that might be in my Private life.
 
@@ -35,9 +35,9 @@ I'll end it off with letting you know my 3 biggest beliefs, 3 things I hate, and
 ### **3 Dying questions** 
 1) What is the meaning to life? Are we born just so we can perish, or are we destined for greater things?
 
-2) Does hard work REALLY trump everything else? Can one be certain that if he, regardless of background, works harder than the herd for the next 20 years, will be guaranteed a shot a success?
+2) Does hard work REALLY trump everything else? Can one be certain that if he, regardless of background, works harder than the herd for the next 20 years, he will be guaranteed a shot a success?
 
 3) Why is there so much hate in this world? Why has everyone been poulluted with jealousy and greed? Why are the successful able to look past these nonsensical, arbitrary desires and focus on the real thing?
 
-> Life is a big, dark room, so big that its 1km by 1km, and so dark that no matter how hard you try, you cant see shit. However, there is a door. Some people are born closer to the door, but others, not so lucky. Keep walking, find the wall, and move, regardless of what it takes. - Quinn
+> Life is a big, dark room, so big that its 1km by 1km, and so dark that no matter how hard you try, you cant see shit. However, there is a door. Some people are born closer to the door, but others, not so lucky. Keep walking, find the wall, and move, regardless of what it takes.
 

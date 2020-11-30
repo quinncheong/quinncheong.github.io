@@ -39,6 +39,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
+  # Google Analytics
+google_analytics: G-4E627E9911
+
 # Server Config options
 incremental: false
 livereload: true

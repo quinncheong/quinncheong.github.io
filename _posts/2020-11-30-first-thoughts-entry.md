@@ -2,7 +2,7 @@
 layout: post
 title:  "First thoughts entry"
 date:   2020-11-30 13:10:27 +0800
-categories: jekyll update
+category: Thoughts
 ---
 #### Monday 11 November 2020 1:16pm
 

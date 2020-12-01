@@ -3,36 +3,46 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  <h1 class="page-heading">{{ page.title | default: "" }}</h1>
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+    {%- for cat in site.data.post_categories -%}
+      {%- assign cat_title = cat[0] -%}
+      {%- assign cat_info = cat[1] -%}
 
-    <p>
-      Thoughts, work, and articles by Quinn. Site is currently unfinished, and due for updates. The site will continue
-      to change and adapt over the next few weeks. For now, feel free to read up on the written articles.
-    </p>
+      <h2 class="post-list-heading">{{- cat_title -}}</h2>
+      <h2 class="post-short-info">{{- cat_info -}}</h2>
+
+      <ul class="post-list">
+        {%- for post in site.posts -%}
+          {% if post.category == cat_title %}
+            <li>
+              {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+              <span class="post-content">{{ post.date | date: date_format }}</span>
+              <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h3>
+              {%- if site.show_excerpts -%}
+                {{ post.excerpt }}
+              {%- endif -%}
+            </li>
+          {% comment %} {% else %}
+            <p>There are no posts here yet. Check back soon.</p> {% endcomment %}
+          {% endif %}
+        {%- endfor -%}
+      </ul>
+      
+    {% endfor %}
     <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
   {%- endif -%}
+
+  <p>
+    Thoughts, work, and articles by me, are all here. Site is currently unfinished, and due for updates. The site will continue
+    to change and adapt over the next few weeks.
+  </p>
 
 </div>

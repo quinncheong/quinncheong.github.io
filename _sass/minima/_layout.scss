@@ -186,6 +186,7 @@
 
 .post-list-heading {
   @include relative-font-size(1.75);
+  margin-bottom: 0;
 }
 
 .post-list {
@@ -200,6 +201,12 @@
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
+}
+
+.post-short-info {
+  font-size: $small-font-size;
+  color: $grey-color;
+  margin-bottom: 35px;
 }
 
 .post-link {

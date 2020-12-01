@@ -2,7 +2,7 @@
 layout: post
 title:  "Site update and reveal"
 date:   2020-11-29 13:49:27 +0800
-categories: jekyll update
+category: Thoughts
 ---
 After thinking long and hard, I have finally started a website to document my thoughts.
 

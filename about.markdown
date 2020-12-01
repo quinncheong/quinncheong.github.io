@@ -12,10 +12,7 @@ Who knows? Certainly not me.
 
 I try to be as objective and analytical as possible in my writings, and look at things from multiple perspectives. I welcome comments of all sorts, but whether or not I read them / reply to them, is up to fate. I implore you to look at my work with a tinge of liberality in you and I look forward to having some great conversations.
 
-### **Who can benefit the most from my writings**
-**Entreprenuers** - I share my failures openly and critically, so you never have to make the mistakes that I did.
-
-### **Last comments from me**
+### **Some extra information**
 I'll end it off with letting you know my 3 biggest beliefs, 3 things I hate, and 3 questions that I'm searching for an answer to.
 
 ### **3 Beliefs**
@@ -32,7 +29,7 @@ I'll end it off with letting you know my 3 biggest beliefs, 3 things I hate, and
 
 3) Lamb / Goat based food.
 
-### **3 Dying questions** 
+### **3 Questions** 
 1) What is the meaning to life? Are we born just so we can perish, or are we destined for greater things?
 
 2) Does hard work REALLY trump everything else? Can one be certain that if he, regardless of background, works harder than the herd for the next 20 years, he will be guaranteed a shot a success?

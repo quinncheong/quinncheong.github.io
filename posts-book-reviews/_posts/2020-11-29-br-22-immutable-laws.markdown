@@ -1,5 +1,5 @@
 ---
-layout: posts-book-reviews
+layout: post
 title:  "Book review: The 22 immutable laws of branding"
 date:   2020-11-29 13:49:27 +0800
 category: Book reviews

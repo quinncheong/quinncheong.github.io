@@ -22,7 +22,7 @@ category: Book reviews
 5. **Flying high** - (biography about Tony Fernandas)
 6. **The 10% entrepreneur** - (didnt finish it but read enough)
 7. **Leader's gretest return** - (Read a little but didnt deem it useful)
-8. **Afraid to hope** - (Read and spead through the book as I didnt find it very useful)
+8. **Afraid to hope** - (Read and sped through the book as I didnt find it very useful)
 
 <!-- {% highlight ruby %}
 def print_hi(name)

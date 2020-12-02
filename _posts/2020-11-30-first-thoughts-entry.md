@@ -4,7 +4,7 @@ title:  "First thoughts entry"
 date:   2020-11-30 13:10:27 +0800
 category: Thoughts
 ---
-#### Monday 11 November 2020 1:16pm
+#### Monday 30 November 2020 1:16pm
 
 My first proper thoughts report on my goals and my plans.
 

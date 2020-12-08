@@ -23,6 +23,7 @@ category: Book reviews
 6. **The 10% entrepreneur** - (didnt finish it but read enough)
 7. **Leader's gretest return** - (Read a little but didnt deem it useful)
 8. **Afraid to hope** - (Read and sped through the book as I didnt find it very useful)
+9. **Discovering the Ottomans** - (Tough book as it covers intermediate - advanced level Ottoman history) (Dec 2020)
 
 <!-- {% highlight ruby %}
 def print_hi(name)

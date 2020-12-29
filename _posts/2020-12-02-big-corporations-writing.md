@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What makes corporations bad or good."
+title:  "What makes corporations bad or good - an anecdotal perspective."
 date:   2020-12-02 11:00:00 +0800
 category: Writings
 ---

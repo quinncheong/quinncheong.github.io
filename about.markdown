@@ -23,7 +23,7 @@ I'll end it off with some otherwise useless infomation about myself.
 3) Hope. Something (beautifully) dangerous, but yet drives us (me) to push our limits and hopefully, possibly, achieve great things. 
 
 ### **3 Things I hate**
-1) Fake Gurus and advisors 
+1) Fake Gurus and advisors
 
 2) Selfishness
 

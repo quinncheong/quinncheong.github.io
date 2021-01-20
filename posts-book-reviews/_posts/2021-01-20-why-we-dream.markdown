@@ -15,7 +15,7 @@ Did I like it: `Mostly`
 ## Personal views
 This book was pretty tough to digest. It contained a ton of research data, spanning decades of dream research. It opened my eyes to how in depth dream research can be, and the infinite positives which learning to control one's dreams can bring. I enjoyed the book for the most part, even though it got boring along the way due to my inexperience with in-depth dream research. 
 
-The key takeaway for inducing lucidity is that one needs to constantly ask him/herself if she is in a dream. By mixing reality and dreams together, we blur the lines and hence, make it easier for us to realise that we are in the dream. The most common (LaBerge) method of lucidity is to sleep for 5 hours / 3-4 sleep cycles, wake up and then try to fall asleep again, while constantly reminding yourself that you are intending to reach lucidity. 
+The key takeaway for inducing lucidity is that one needs to constantly ask him/herself if one is in a dream. By mixing reality and dreams together, we blur the lines and hence, make it easier for us to realise that we are in the dream. The most common (LaBerge) method of lucidity is to sleep for 5 hours / 3-4 sleep cycles, wake up and then try to fall asleep again, while constantly reminding yourself that you are intending to reach lucidity. 
 
 By keeping a dream diary and constantly telling your subconscious mind (you must be convinced and really trying) to remember your dreams, one highly increase the likelihood of inducing lucidity.
 

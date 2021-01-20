@@ -4,7 +4,7 @@ title:  "Book review: Why We Dream: The Science, Creativity and Transformative P
 date:   2021-01-20 00:00:00 +0800
 category: Book reviews
 ---
-First book of the year completed. Didnt manage to finish my 2020 book goals and lagged behind by 2 books. Here is one of the books that was on the backlog.
+First book of the year completed. Didnt manage to finish my 2020 book goals and lagged behind by 2 books. Here is one of the books that were on the backlog.
 
 {% highlight ruby %}
 Title: `Why We Dream: The Science, Creativity and Transformative Power of Dreams`

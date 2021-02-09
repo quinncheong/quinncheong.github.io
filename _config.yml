@@ -21,7 +21,7 @@
 title: Quinncheong.com
 email: quinncheong@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Place where I document my failures and successes for personal analysis. Comments are welcome but not necessary.
+  Place where I document my failures and successes for personal analysis. Comments are welcomed but not necessary.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://quinncheong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # No twitter for now as I dont use twitter alot

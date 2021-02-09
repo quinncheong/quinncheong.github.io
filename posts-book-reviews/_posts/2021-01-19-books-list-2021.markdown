@@ -16,6 +16,7 @@ category: Book reviews
 {% endhighlight %}
 
 1. **Why We Dream: The Science, Creativity and Transformative Power of Dreams by Alice Robb** - (This book took much longer than I anticipated)
+2. **Outbreaks and epidemics: Battling infection from measles to coronavirus** - (Excellent book which summarises the history of pandemics)
 
 <!-- {% highlight ruby %}
 def print_hi(name)

@@ -46,6 +46,12 @@ google_analytics: G-4E627E9911
 incremental: false
 livereload: true
 
+defaults:
+  - scope:
+      path: "assets/pdf"
+    values:
+        pdf: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

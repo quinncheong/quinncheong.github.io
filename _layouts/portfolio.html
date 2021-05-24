@@ -14,6 +14,7 @@ layout: default
   {% assign pdf_files = site.static_files | where: "pdf", true %}
   {% for pdf in pdf_files %}
     {% if pdf.name == page.pdf-name %}
+    <a href="{{ pdf.path }}">Click here to download the PDF if it is not viewable.</a><br><br>
     <object data="{{ pdf.path }}" width="100%" height="800" type='application/pdf'></object>
     {% endif %}
   {% endfor %}

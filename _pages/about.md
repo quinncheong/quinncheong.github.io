@@ -13,4 +13,3 @@ I created this site to track my successes and failures from the adventures that 
 In my writings, I try to be as objective and analytical as possible, and I look at things from multiple perspectives. I implore you to look at my work with a tinge of liberality and I look forward to having some great conversations.
 
 > Life is a big, dark room, and it's so dark that no matter how hard you try, you cant see shit. However, there is a door. Some people are born closer to the door, but others, not so lucky. Keep walking, find the wall, and move, regardless of what it takes.
-

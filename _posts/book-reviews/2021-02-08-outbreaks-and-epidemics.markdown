@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: splash
 title:  "Book review: Outbreaks and epidemics - Meera Senthilingam"
 date:   2021-02-08 00:00:00 +0800
 category: Book reviews
+# excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
+header:
+  overlay_color: "#333"
 ---
 A very interesting book. Slowly getting into the habit of reading during my commute.
 

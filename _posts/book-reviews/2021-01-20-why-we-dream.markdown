@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Book review: Why We Dream: The Science, Creativity and Transformative Power of Dreams - Alice Robb"
 date:   2021-01-20 00:00:00 +0800
 category: Book reviews

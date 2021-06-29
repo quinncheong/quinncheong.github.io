@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "2021 Books List"
 date:   2021-01-19 13:49:27 +0800
 category: Book reviews

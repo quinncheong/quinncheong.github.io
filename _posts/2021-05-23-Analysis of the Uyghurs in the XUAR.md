@@ -23,5 +23,7 @@ The essay is limited in the sense that I was unable to get as much information a
 
 There are definitely errors in this essay, and areas to be improved. Hence I implore that criticisms be lenient and charitable.
 
+If the PDF isnt clear, you can download the essay <a href="/assets/pdf/Uyghur-analysis.pdf">here</a>
+
 <object data="/assets/pdf/Uyghur-analysis.pdf" height="1000"></object>
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "First thoughts entry"
 date:   2020-11-30 13:10:27 +0800
 category: Thoughts

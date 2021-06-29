@@ -1,5 +1,5 @@
 ---
-layout: portfolio
+layout: single
 title:  "Analysis of the Uyghur-Chinese conflict in the XUAR."
 date:   2021-05-23 11:00:00 +0800
 category: Work

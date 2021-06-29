@@ -68,7 +68,7 @@ livereload: true
 author:
   name   : "Quinn Cheong"
   avatar : "/assets/images/logo.png"
-  bio    : "Testing biography"
+  bio    : "Place where I document my failures and successes for personal analysis."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -101,6 +101,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"

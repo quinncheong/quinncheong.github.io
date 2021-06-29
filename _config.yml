@@ -19,38 +19,124 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Quinncheong.com
+subtitle: "Home of Quinn's explorations"
+name: "Quinn Cheong"
 email: quinncheong@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Place where I document my failures and successes for personal analysis. Comments are welcomed but not necessary.
+  Quinn Cheong's personal site where he publishes his writings, work and thoughts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://quinncheong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/assets/images/logo.png"
 # No twitter for now as I dont use twitter alot
 # twitter_username: quinn_cheong
 github_username:  quinncheong
 linkedin_username:  quinncheong
 instagram_username: quinnizso
-
-author: Made by Quinn
+minimal_mistakes_skin: dark # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+search: true
+breadcrumbs: true  # disabled by default
 
 copyright: Quinn
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-  # Google Analytics
-google_analytics: G-4E627E9911
+include:
+  - _pages
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# Google Analytics
+# google_analytics: G-4E627E9911
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-4E627E9911"
+    anonymize_ip: false # default
+
+author:
+  name   : "Quinn Cheong"
+  avatar : "/assets/images/Quinn_pfp.jpg"
+  bio    : "Place where I document my failures and successes for personal analysis."
+  location : "Singapore, Singapore"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://quinncheong.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/quinncheong"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/quinncheong"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/quinnizso"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/quinncheong"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/quinncheong"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/quinnizso"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      show_date: true
+      comments:
+        provider: "facebook"
+        facebook:
+          appid: # optional
+          num_posts: 5 # 5 (default)
+          colorscheme: dark # "light" (default), "dark"
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 # Server Config options
 incremental: false
 livereload: true
 
-defaults:
-  - scope:
-      path: "assets/pdf"
-    values:
-        pdf: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,0 +1,33 @@
+---
+layout: single
+title:  "2020 Books List"
+category: Book reviews
+---
+# Book Goals of 2020
+*Finish the books I have borrowed by December*
+<br/>
+<br/>
+
+# Books Summary of 2020
+{% highlight ruby %}
+`Below is a summary of all the books I have read in 2020.`
+`For individual books, check out the book reviews that I have done.`
+{% endhighlight %}
+
+1. **The 22 Immutable laws of Branding**
+2. **Biography of Tim Cook**
+3. **Robert Kuok, a memoir with Andrew Tanzer** - (Loved this biography, was amazing)
+4. **China's silent army** - (was tought to read but was worth it)
+5. **Flying high** - (biography about Tony Fernandas)
+6. **The 10% entrepreneur** - (didnt finish it but read enough)
+7. **Leader's gretest return** - (Read a little but didnt deem it useful)
+8. **Afraid to hope** - (Read and sped through the book as I didnt find it very useful)
+9. **Discovering the Ottomans** - (Tough book as it covers intermediate - advanced level Ottoman history) (Dec 2020)
+
+<!-- {% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %} -->

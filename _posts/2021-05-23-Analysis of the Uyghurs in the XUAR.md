@@ -1,8 +1,8 @@
 ---
-layout: portfolio
+layout: single
 title:  "Analysis of the Uyghur-Chinese conflict in the XUAR."
-date:   2021-05-23 11:00:00 +0800
-category: Work
+categories: 
+    - Experience
 pdf-name: "Uyghur-analysis.pdf"
 ---
 #### **This exploration was done in Y1S2 for my Biq Questions module final essay.**
@@ -22,4 +22,6 @@ I read widely from a plethora of sources, and recorded all of them down as state
 The essay is limited in the sense that I was unable to get as much information as I would have liked from China's perspective. This is an area which warrants further study, as I explain in my essay.
 
 There are definitely errors in this essay, and areas to be improved. Hence I implore that criticisms be lenient and charitable.
+
+<object data="/assets/pdf/Uyghur-analysis.pdf" height="1000"></object>
 

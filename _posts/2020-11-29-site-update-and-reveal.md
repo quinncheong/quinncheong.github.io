@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Site update and reveal"
 date:   2020-11-29 13:49:27 +0800
 category: Thoughts

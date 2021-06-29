@@ -1,0 +1,28 @@
+---
+layout: single
+title:  "2021 Books List"
+date:   2021-01-19 13:49:27 +0800
+category: Book reviews
+---
+# Book Goals of 2021
+*Initally it was to hit 52 books this year, but seeing how this semester is playing out, we should aim for 2 weeks per book, hence 26 books this year. (Edit 20th Jan 2021 12:13am)*
+<br/>
+<br/>
+
+# Books Summary of 2021
+{% highlight ruby %}
+`Below is a summary of all the books I've read in 2021, as per what I've done in 2020.`
+`For individual books, check out the book reviews that I have done.`
+{% endhighlight %}
+
+1. **Why We Dream: The Science, Creativity and Transformative Power of Dreams by Alice Robb** - (This book took much longer than I anticipated)
+2. **Outbreaks and epidemics: Battling infection from measles to coronavirus** - (Excellent book which summarises the history of pandemics)
+3. **The case for Keto: the truth about Low-Carb, High-Fat eating** - (New insights, but it requires some personal clinical trials)
+
+<!-- {% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %} -->

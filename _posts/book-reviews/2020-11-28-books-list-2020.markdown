@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "2020 Books List"
-date:   2020-11-28 13:49:27 +0800
 category: Book reviews
 ---
 # Book Goals of 2020

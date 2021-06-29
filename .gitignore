@@ -3,3 +3,6 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Clone of minimal mistakes for easier layout manipulation
+minimal-mistakes-gh-clone/

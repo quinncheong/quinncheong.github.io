@@ -23,10 +23,10 @@ subtitle: "Home of Quinn's explorations"
 name: "Quinn Cheong"
 email: quinncheong@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Quinn Cheong's personal site where he publishes his writings, work and thoughts.
+  My personal site where I share about the things I'm learning, my explorations, and experiences that I've had. I hope that we'll have some great conversations.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://quinncheong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/images/logo.png"
+logo: "/assets/images/Q_logo_small.png"
 # No twitter for now as I dont use twitter alot
 # twitter_username: quinn_cheong
 github_username:  quinncheong
@@ -85,6 +85,18 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/quinnizso"
+
+# For SEO
+social:
+  type: Person # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://www.facebook.com/Quinncheong"
+    - "https://instagram.com/quinnizso"
+    - "https://linkedin.com/in/quinncheong"
+    - "https://github.com/quinncheong"
+
+og_image: "/assets/images/logo.png"
 
 footer:
   links:

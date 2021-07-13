@@ -5,12 +5,14 @@
 # - - Thoughts
 #   - My personal thoughts which are meant for myself and maybe some friends. Its open to the public as well.
 main:
-  - title: "Writings"
-    url: /writings/
-    description: "Here lie the things I explore and write about."
-  - title: "Experience"
-    url: /experience/
-    description: "A mini portfolio, and maybe the things I have done."
+  # - title: "Writings"
+  #   url: /writings/
+  #   description: "Here lie the things I explore and write about."
+  # - title: "Experience"
+  #   url: /experience/
+  #   description: "A mini portfolio, and maybe the things I have done."
+  - title: "Resume"
+    url: /resume/
   - title: "Thoughts"
     url: /thoughts/
     description: "My personal thoughts which are meant for myself and maybe some friends. It's open to the public as well."
@@ -19,6 +21,7 @@ main:
     description: "Reviews about books I've read and podcasts I've listened to throughout the years"
   - title: "About"
     url: /about/
+  
 
 # docs:
 #   - title: Getting Started

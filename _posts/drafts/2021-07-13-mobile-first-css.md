@@ -1,10 +1,11 @@
 ---
 layout: single
-title:  "Mobile-First CSS design."
+title:  "Mobile-First CSS design"
 categories: 
+    - Drafts
+tags: 
     - Programming
     - Front-End
-    - Drafts
 ---
 After thinking long and hard, I have finally started a website to document my thoughts.
 

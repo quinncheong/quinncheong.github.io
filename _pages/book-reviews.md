@@ -3,5 +3,4 @@ title: "Reviews about books I've read and podcasts that I've listened to through
 permalink: /books/
 layout: category
 taxonomy: "Book reviews"
-author_profile: true
 ---

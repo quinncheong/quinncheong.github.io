@@ -73,18 +73,18 @@ author:
   bio    : "Place where I document my failures and successes for personal analysis."
   location : "Singapore, Singapore"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://quinncheong.com"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://quinncheong.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/quinncheong"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/quinncheong"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/quinnizso"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/quinnizso"
 
 # For SEO
 social:
@@ -106,9 +106,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/quinncheong"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/quinnizso"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/quinnizso"
 
 defaults:
   # _posts
@@ -128,7 +128,7 @@ defaults:
         provider: "facebook"
         facebook:
           appid: # optional
-          num_posts: 5 # 5 (default)
+          num_posts: 8 # 5 (default)
           colorscheme: dark # "light" (default), "dark"
   # _pages
   - scope:
@@ -147,7 +147,7 @@ tag_archive:
 
 # Server Config options
 incremental: false
-livereload: true
+livereload: false
 
 
 # Exclude from processing.
